@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Tsessebe","category":"Orange"},
+{"id":2,"name":"Suricate","category":"Mauv"},
+{"id":3,"name":"Bleu, blue-breasted cordon","category":"Khaki"},
+{"id":4,"name":"Jaguar","category":"Khaki"},
+{"id":5,"name":"Tiger snake","category":"Maroon"},
+{"id":6,"name":"Mynah, common","category":"Turquoise"},
+{"id":7,"name":"Yellow mongoose","category":"Maroon"},
+{"id":8,"name":"Three-banded plover","category":"Khaki"},
+{"id":9,"name":"Fat-tailed dunnart","category":"Yellow"},
+{"id":10,"name":"Blue racer","category":"Indigo"},
+{"id":11,"name":"Rat, arboral spiny","category":"Teal"},
+{"id":12,"name":"Starling, cape","category":"Orange"},
+{"id":13,"name":"Striped hyena","category":"Indigo"},
+{"id":14,"name":"Caracara (unidentified)","category":"Pink"},
+{"id":15,"name":"Nubian bee-eater","category":"Mauv"},
+{"id":16,"name":"Kingfisher, white-throated","category":"Mauv"},
+{"id":17,"name":"Goose, knob-nosed","category":"Violet"},
+{"id":18,"name":"Prairie falcon","category":"Goldenrod"},
+{"id":19,"name":"Moccasin, water","category":"Green"},
+{"id":20,"name":"Sparrow, house","category":"Red"}
+]
+}
